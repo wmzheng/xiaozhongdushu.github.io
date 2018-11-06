@@ -1,0 +1,210 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Î¢ÈíÑÅºÚ;
+}
+body{
+    background-color: #e8e4e6;
+}
+.L{
+    float: left;
+}
+.M{
+    width: 960px;
+    margin: 0px auto;
+}
+.R{
+    float: right;
+}
+.cl{
+    clear: both;
+}
+
+.top{
+    width: 100%;
+    height: 100px;
+}
+.logo{
+    margin-top: 25px;
+}
+.dianhua span{
+    position: absolute;
+    top: 30px;
+    left: 890px;
+    font-size: 30px;
+    text-shadow: 5px 5px 1px #ffeb55;
+}
+/*µ¼º½*/
+.daohang{
+    background-color: #25220c;
+    width: 100%;
+    height: 55px;
+}
+.daohang li{
+    list-style-type: none;
+    display: inline;
+    line-height: 55px;
+}
+.daohang a{
+    text-decoration: none;
+    color: #f8f4f6;
+    font-size: 15px;
+    margin: 20px;
+}
+.daohang a:hover{
+    color: cadetblue;
+}
+
+/*ÄÚÈÝ*/
+.gonggao{
+    background-color: #25220c;
+    width: 100%;
+    height: 40px;
+    margin-bottom: 20px;
+}
+.gonggao span{
+    position: absolute;
+    left: 350px;
+    margin-top: 10px;
+}
+#g{
+    position: absolute;
+    left: 400px;
+    color: #faf6f8;
+    font-size: 20px;
+}
+#k{
+    position: absolute;
+    left: 500px;
+    color: #faf6f8;
+    font-size: 15px;
+    margin-top: 15px;
+}
+#j{
+    position: absolute;
+    left: 800px;
+}
+#i{
+    font-size: 20px;
+}
+.jianjie a:hover{
+    border-color: #25220c;
+    border-style: groove;
+}
+.xinwen{
+    background-color: #25220c;
+    width: 100%;
+    height: 320px;
+}
+.zuo{
+    float: left;
+}
+#e{
+    float: left;
+    font-size: 22px;
+    color: #faf6f8;
+    margin-top: 7px;
+    position: absolute;
+    left: 200px;
+}
+.zuo hr{
+    position: relative;
+    top: 40px;
+    left:170px;
+    width: 350px;
+}
+.xinwen1{
+    position: relative;
+    top: 60px;
+    left: 190px;
+    color: #f9faaf;
+}
+.xinwen li{
+    list-style-type: armenian;
+}
+.xinwen1 a{
+    text-decoration: none;
+    color: #f9faaf;
+    line-height: 30px;
+}
+.you{
+    float: left;
+}
+#r{
+    font-size: 22px;
+    color: #faf6f8;
+    margin-top: 7px;
+    position: absolute;
+    left: 700px;
+}
+.you hr{
+    position: relative;
+    top: 40px;
+    left:310px;
+    width: 350px;
+}
+.you img{
+    position: relative;
+    top: 60px;
+    left:310px;
+}
+.bofang{
+    margin-top: 20px;
+    position: relative;
+    left: 200px;
+}
+.bofang li{
+    display: inline;
+}
+.nav{
+    position: absolute;
+    z-index: 9;
+    width: 2000px;
+    height: 200px;
+    animation:myfirst 6s infinite;
+}
+@keyframes myfirst{
+    0%{
+        left: 0px;
+    }
+    26.6%{
+        left: 0px;
+    }
+    33%{
+        left:-320px;
+    }
+    44%{
+        left:-620px;
+    }
+    50%{
+        left:-2000px;
+    }
+    65%{
+        left:-0px;
+    }
+    74%{
+        left:320px;
+    }
+    84%{
+        left: 640px;
+    }
+    95%{
+        left: 2000px;
+    }
+    100%{
+        left: 0px;
+    }
+}
+
+/*µ×²¿*/
+.dibu{
+    margin-top: 200px;
+    float: left;
+    background-color: #25220c;
+    width: 100%;
+    height: 100px;
+    padding: 30px;
+}
+
+
+

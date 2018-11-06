@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>阿水的阿里</title>
+    <link href="静态开发.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div class="header">
+    <div class="top">
+        <div class="M">
+            <div class="logo">
+                <img src="logo.jpg">
+            </div>
+            <div class="dianhua R">
+                <span>Tel:10088208820</span>
+            </div>
+        </div>
+    </div>
+    <div class="daohang">
+        <div class="M">
+            <ul>
+                <li>
+                    <a href="#">网站首页</a>
+                </li>
+                <li>
+                    <a href="#">关于我们</a>
+                </li>
+                <li>
+                    <a href="#">新闻动态</a>
+                </li>
+                <li>
+                    <a href="#">主营项目</a>
+                </li>
+                <li>
+                    <a href="#">设备展示</a>
+                </li>
+                <li>
+                    <a href="#">合作伙伴</a>
+                </li>
+                <li>
+                    <a href="#">人才招聘</a>
+                </li>
+                <li>
+                    <a href="#">给我留言</a>
+                </li>
+                <li>
+                    <a href="#">联系我们</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+    <div class="tubiao M">
+        <img src="tubiao.jpg" alt="hhhhh">
+    </div>
+
+</div>
+
+<div class="center">
+    <div class="gonggao M">
+        <span><img src="gonggao.jpg"></span>
+        <span id="g">最新公告:</span>
+        <span id="k">阿水的阿里成为世界第一首富</span>
+        <span id="j">
+            <form>
+                <input type="search" name="search" placeholder="search">
+                <input type="submit" value="搜索">
+            </form>
+        </span>
+    </div>
+
+    <div class="jianjie M">
+        <span id="i">主营项目</span>
+        <hr/>
+        <span id="q">
+            <a href="#"><img src="1.jpg"></a>
+            <a href="#"><img src="2.jpg"></a>
+            <a href="#"><img src="3.jpg"></a>
+            <a href="#"><img src="4.jpg"></a>
+        </span>
+    </div>
+    <div class="xinwen M">
+        <div class="zuo">
+        <div id="e">新闻动态</div>
+        <hr/>
+        <div class="xinwen1">
+            <ul>
+                <a href="#"><li>阿水的阿里最帅</li></a>
+                <a href="#"><li>阿水的阿里最厉害</li></a>
+                <a href="#"><li>阿水的阿里好厉害</li></a>
+                <a href="#"><li>阿水的阿里好强</li></a>
+                <a href="#"><li>阿水的阿里真牛逼</li></a>
+                <a href="#"><li>阿水的阿里真的好</li></a>
+            </ul>
+        </div>
+        </div>
+        <div class="you">
+            <div id="r">合作伙伴</div>
+            <hr/>
+            <img src="5.jpg" alt="广告">
+        </div>
+    </div>
+
+</div>
+
+<div class="bofang">
+    <div class="img">
+        <ul class="nav">
+            <li><a href="#"><img src="1.jpg"></a></li>
+            <li><a href="#"><img src="1.jpg"></a></li>
+            <li><a href="#"><img src="1.jpg"></a></li>
+            <li><a href="#"><img src="1.jpg"></a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="dibu">
+    <p><span id="f">地址：阿水的阿里 电话：932834897</span></p>
+    <p><span id="o">Copyright?samxinnet.com 2001-2015 All Right Reserved</span></p>
+</div>
+</body>
+</html>
